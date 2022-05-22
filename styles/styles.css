@@ -3,3 +3,6 @@ h1.default {
   font-size: 64px;
   font-weight: extrabold;
 }
+default {
+  font-family:"Montserrat", sans-serif;
+}
