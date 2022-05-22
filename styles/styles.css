@@ -1,4 +1,5 @@
-
-.default {
+h1.default {
   font-family:"Montserrat", sans-serif;
+  font-size: 64px;
+  font-weight: extrabold;
 }
