@@ -1,8 +1,8 @@
-h1.def {
+h1 {
   font-family:"Montserrat", sans-serif;
   font-size: 64px;
   font-weight: extrabold;
 }
-default {
+p {
   font-family:"Montserrat", sans-serif;
 }
