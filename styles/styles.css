@@ -1,5 +1,5 @@
 .bg-dark {
-  background-image: url( '../svg/waves.svg' );
+  background-image: url( '../svg/waves.svg' ) no-repeat center fixed;
   object-fit: cover;
 }
 body {
