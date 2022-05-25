@@ -1,5 +1,5 @@
 .bg-dark {
-  background-image: url( '/svg/waves.svg' );
+  background-image: url( '../svg/waves.svg' );
 }
 h1 {
   font-family: 'Open Sans', sans-serif;
