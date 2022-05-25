@@ -1,6 +1,10 @@
 .bg-dark {
   background-image: url( '../svg/waves.svg' );
-  object-fit: contain;
+  object-fit: cover;
+}
+body {
+    display: block;
+    margin: 0px;
 }
 h1 {
   font-family: 'Open Sans', sans-serif;
