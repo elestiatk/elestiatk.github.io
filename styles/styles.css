@@ -13,16 +13,16 @@ body {
 h1 {
   font-family: 'Open Sans', sans-serif;
   font-size: 72px;
-  font-weight: semibold;
+  font-weight: 600;
 }
 
 h3 {
   font-family: 'Open Sans', sans-serif;
   font-size: 36px;
-  font-weight: semibold;
+  font-weight: 600;
 }
 
-p.sub {
+p {
   font-family: 'Open Sans', sans-serif;
   font-size: 28;
 }
