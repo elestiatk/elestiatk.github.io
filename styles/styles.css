@@ -53,6 +53,14 @@ li a:hover {
 }
 
 /*Self declared classes following*/
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  background: #30775f;
+}
 
 .spacer {
   aspect-ratio: 900/200;
