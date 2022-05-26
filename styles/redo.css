@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  background: #202731;
+}
+
+section {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 200px;
+  padding: 25px 5vw;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 28;
+  font-weight: 600;
+}
+
+ul {
+  height: 50px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #b0225d;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+}
+
+li a:hover {
+  background-color: #681035;
+}
+
+/*Self declared classes following*/
+
+.spacer {
+  aspect-ratio: 900/200;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.layer1 {
+  background-image: url(../svg/waves.svg);
+}
+
+.sub {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16;
+  font-weight: 600;
+}
+
+.active {
+  background-color: #681035;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+}
