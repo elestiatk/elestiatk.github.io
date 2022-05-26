@@ -14,6 +14,50 @@ section {
     padding: 100px 20vw;
 }
 
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28;
+  }
+  
+  .sub {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ddd;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #111;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  /* Change the link color to #aaa (black) on hover */
+  li a:hover {
+    background-color: #bbb;
+  }
+
+  /*Self */
+
 .spacer {
     aspect-ratio: 960/350;
     width: 100%;
