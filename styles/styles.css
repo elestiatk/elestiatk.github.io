@@ -21,39 +21,34 @@ h1 {
 }
 
 p {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 28;
-  }
-  
-  .sub {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 16;
-  }
-  
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #ddd;
-  }
-  
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    color: #111;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-family: "Montserrat", sans-serif;
-  }
+  font-family: 'Open Sans', sans-serif;
+  font-size: 28;
+}
 
-  li a:hover {
-    background-color: #bbb;
-  }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ddd;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: #111;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+}
+
+li a:hover {
+  background-color: #bbb;
+}
 
   /*Self declared classes following*/
 
@@ -67,4 +62,13 @@ p {
 
 .layer1 {
     background-image: url(../svg/waves.svg);
+}
+
+.sub {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16;
+}
+
+.active {
+  background-color: #04AA6D;
 }
