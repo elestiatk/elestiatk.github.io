@@ -1,5 +1,5 @@
 .bg-dark {
-  background-image: url( '/svg/waves.svg' ); 
+  background-image: url( '../svg/waves.svg' ); 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
