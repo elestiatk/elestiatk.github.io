@@ -23,45 +23,37 @@ h1 {
 p {
     font-family: 'Open Sans', sans-serif;
     font-size: 28;
-}
+  }
   
-.sub {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16;
-}
+  .sub {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ddd;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #111;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+  }
 
-.nav {
-    background-color: #444;
-    height: 70px;
-    width: 100%;
-}
-
-.nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #444;
-  display: inline-block;
-  vertical-align: top;
-}
-
-li {
-  float: right;
-}
-
-li a {
-  display: block;
-  color: #eee;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-family: "Montserrat", sans-serif;
-}
-
-li a:hover {
-  background-color: #222;
-}
+  li a:hover {
+    background-color: #bbb;
+  }
 
   /*Self declared classes following*/
 
