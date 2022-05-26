@@ -17,12 +17,13 @@ section {
 h1 {
   font-family: 'Open Sans', sans-serif;
   font-size: 72px;
-  font-weight: 900;
+  font-weight: 700;
 }
 
 p {
   font-family: 'Open Sans', sans-serif;
   font-size: 28;
+  font-weight: 600;
 }
 
 ul {
@@ -67,6 +68,7 @@ li a:hover {
 .sub {
   font-family: 'Open Sans', sans-serif;
   font-size: 16;
+  font-weight: 600;
 }
 
 .active {
