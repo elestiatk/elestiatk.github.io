@@ -1,23 +1,23 @@
 body {
-    margin: 0;
-    font-family: 'Open Sans', sans-serif;
-    color: white;
-    background: #202731;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  background: #202731;
 }
 
 section {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    min-height: 400px;
-    padding: 100px 20vw;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 400px;
+  padding: 100px 20vw;
 }
 
 h1 {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 72px;
-    font-weight: 600;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 72px;
+  font-weight: 600;
 }
 
 p {
@@ -50,18 +50,18 @@ li a:hover {
   background-color: #bbb;
 }
 
-  /*Self declared classes following*/
+/*Self declared classes following*/
 
 .spacer {
-    aspect-ratio: 960/350;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+  aspect-ratio: 960/350;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .layer1 {
-    background-image: url(../svg/waves.svg);
+  background-image: url(../svg/waves.svg);
 }
 
 .sub {
