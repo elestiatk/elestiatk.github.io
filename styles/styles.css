@@ -1,58 +1,15 @@
-.bg-dark {
-  background-image: url( '../svg/waves.svg' ); 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
 body {
-    display: block;
-    margin: 0px;
-}
-h1 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 72px;
-  font-weight: 600;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    background: #202731;
 }
 
-h3 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 36px;
-  font-weight: 600;
-}
-
-p {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 28;
-}
-
-.sub {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #ddd;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: #111;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-family: "Montserrat", sans-serif;
-}
-
-/* Change the link color to #aaa (black) on hover */
-li a:hover {
-  background-color: #bbb;
+section {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 400px;
+    padding: 100px 20vw;
 }
