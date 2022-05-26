@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     color: white;
-    background: #202731;
+    background: #001220;
 }
 
 section {
@@ -23,5 +23,5 @@ section {
 }
 
 .layer1 {
-    background-image: url(./svg/waves.svg);
+    background-image: url(../svg/waves.svg);
 }
