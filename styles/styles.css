@@ -52,6 +52,11 @@ li a:hover {
   background-color: #681035;
 }
 
+img {
+  width: auto;
+  height: 40;
+}
+
 /*Self declared classes following*/
 
 .spacer {
