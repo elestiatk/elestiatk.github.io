@@ -9,7 +9,7 @@ section {
   position: relative;
   display: flex;
   flex-direction: column;
-  align-text: center;
+  text-align: center;
   /*align-items: center;
   min-height: 200px;
   padding: 25px 5vw;*/
