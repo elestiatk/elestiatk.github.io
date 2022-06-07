@@ -75,6 +75,10 @@ img {
   background-image: url(../svg/waves.svg);
 }
 
+.layer2 {
+  background-image: url(../svg/footer.svg);
+}
+
 .sub {
   font-family: 'Open Sans', sans-serif;
   font-size: 16;
