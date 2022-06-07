@@ -21,6 +21,12 @@ h1 {
   font-weight: 700;
 }
 
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+}
+
 p {
   font-family: 'Open Sans', sans-serif;
   font-size: 28;
