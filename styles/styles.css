@@ -70,6 +70,9 @@ img {
 footer {
   background-color: #b0225d;
   font-size: 16;
+  margin: 0;
+  padding: 0;
+  text-align: center;
 }
 
 /*Self declared classes following*/
