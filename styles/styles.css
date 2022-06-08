@@ -67,6 +67,11 @@ img {
   height: auto;
 }
 
+footer {
+  background-color: #b0225d;
+  font-size: 16;
+}
+
 /*Self declared classes following*/
 
 .spacer {
