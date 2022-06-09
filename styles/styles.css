@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: 15;
   font-family: 'Open Sans', sans-serif;
   color: white;
   background: #202731;
@@ -9,7 +9,7 @@ section {
   position: relative;
   display: flex;
   flex-direction: column;
-  text-align: center;
+  text-align: left;
   /*align-items: center;
   min-height: 200px;
   padding: 25px 5vw;*/
@@ -21,7 +21,7 @@ h1 {
   font-weight: 700;
 }
 
-h1 {
+h3 {
   font-family: 'Open Sans', sans-serif;
   font-size: 48px;
   font-weight: 700;
