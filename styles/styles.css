@@ -68,6 +68,7 @@ img {
 }
 
 footer {
+  height: 40px;
   background-color: #b0225d;
   font-size: 16;
   margin: 0;
