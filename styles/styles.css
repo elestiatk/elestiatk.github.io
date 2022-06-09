@@ -1,11 +1,12 @@
 body {
-  margin: 15;
+  margin: 0;
   font-family: 'Open Sans', sans-serif;
   color: white;
   background: #202731;
 }
 
 section {
+  margin: 30;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -71,7 +72,7 @@ footer {
   height: 40px;
   background-color: #b0225d;
   font-size: 16;
-  margin: 0;
+  margin: 0 0 0 0;
   padding: 0;
   text-align: center;
 }
