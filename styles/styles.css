@@ -69,7 +69,6 @@ img {
 }
 
 footer {
-  height: 40px;
   background-color: #b0225d;
   font-size: 16;
   margin: 0 0 0 0;
@@ -92,7 +91,6 @@ footer {
 }
 
 .layer2 {
-  margin: 0 0 0 0;
   background-image: url(../svg/footer.svg);
 }
 
