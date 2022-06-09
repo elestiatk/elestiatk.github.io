@@ -68,15 +68,15 @@ img {
   height: auto;
 }
 
-footer {
+/*Self declared classes following*/
+
+.footer {
   background-color: #b0225d;
   font-size: 16;
   margin: 0 0 0 0;
   padding: 0;
   text-align: center;
 }
-
-/*Self declared classes following*/
 
 .spacer {
   aspect-ratio: 900/200;
