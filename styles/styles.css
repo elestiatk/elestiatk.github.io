@@ -92,6 +92,7 @@ footer {
 }
 
 .layer2 {
+  margin: 0 0 0 0;
   background-image: url(../svg/footer.svg);
 }
 
