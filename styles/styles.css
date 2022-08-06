@@ -43,7 +43,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #b0225d;
+  background-color: ##E4FAFF;
 }
 
 li {
@@ -71,7 +71,7 @@ img {
 /*Self declared classes following*/
 
 .footer {
-  background-color: #b0225d;
+  background-color: #FFFFFF;
   font-size: 16;
   margin: 0 0 0 0;
   padding: 0;
@@ -84,14 +84,6 @@ img {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-}
-
-.layer1 {
-  background-image: url(../svg/waves.svg);
-}
-
-.layer2 {
-  background-image: url(../svg/footer.svg);
 }
 
 .sub {
