@@ -1,104 +1,50 @@
-body {
-  margin: 0;
-  font-family: 'Open Sans', sans-serif;
-  color: white;
-  background: #E4FAFF;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+html, body {
+    font-family: "Montserrat", sans-serif;
+    background-color: rgb(255, 255, 255);
 }
 
-section {
-  margin: 30;
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  text-align: left;
-  /*align-items: center;
-  min-height: 200px;
-  padding: 25px 5vw;*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
-h1 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 72px;
-  font-weight: 700;
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 5px;
+    background-color: rgb(180, 180, 180);
 }
 
-h3 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 48px;
-  font-weight: 700;
-}
-
-p {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 28;
-  font-weight: 600;
+.brand a {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
 }
 
 ul {
-
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 600;
-  height: 50px;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #FFFFF;
+    display: flex;
+    flex-direction: row;
 }
 
 li {
-  float: right;
+    list-style-type: none;
+    margin-left: 20px;
+    
 }
 
-li a {
-  display: block;
-  color: #fff;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-family: "Montserrat", sans-serif;
+li > a href{
+    text-decoration: none;
+    color: rgb(241, 241, 241);
+    font-size: 12px;
+    font-weight: 500;
 }
 
-li a:hover {
-  background-color: #FFFFF;
-}
 
-img {
-  width: 216;
-  height: auto;
-}
-
-/*Self declared classes following*/
-
-.footer {
-  background-color: #FFFFFF;
-  font-size: 10;
-  margin: 0 0 0 0;
-  padding: 0;
-  text-align: center;
-}
-
-.spacer {
-  aspect-ratio: 900/200;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-
-.sub {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16;
-  font-weight: 600;
-}
-
-.active {
-  background-color: #681035;
-}
-
-.logo {
-  width: 30px;
-  height: 30px;
-  display: flex;
-  justify-content: center;
+li > a:hover {
+    color: rgb(255, 255, 255);
 }
