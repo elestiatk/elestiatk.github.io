@@ -43,7 +43,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #578E73;
+  background-color: #FFFFF;
 }
 
 li {
@@ -72,7 +72,7 @@ img {
 
 .footer {
   background-color: #FFFFFF;
-  font-size: 16;
+  font-size: 10;
   margin: 0 0 0 0;
   padding: 0;
   text-align: center;
