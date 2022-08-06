@@ -43,7 +43,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #E4FAFF;
+  background-color: #578E73;
 }
 
 li {
@@ -60,7 +60,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #681035;
+  background-color: #578E73;
 }
 
 img {
